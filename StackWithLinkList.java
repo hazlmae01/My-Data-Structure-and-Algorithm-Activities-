@@ -1,4 +1,4 @@
-class Stack {
+class StackWithLinkList {
     private Node top; // Top of the stack (linked list)
     
     // Node class represents each element in the stack
